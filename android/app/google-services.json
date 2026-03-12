@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091643597250",
+    "project_id": "petediano-pro",
+    "storage_bucket": "petediano-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091643597250:android:5f47808221b54841e8365b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091643597250-vsce2d4hr3vo5ebart75rfes1a1ookor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jwrScKYVKKrpT30in6rElTJ7d8PYdkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091643597250-vsce2d4hr3vo5ebart75rfes1a1ookor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
